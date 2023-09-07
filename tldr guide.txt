@@ -1,0 +1,9 @@
+INITIAL SETUP:
+git clone <copied url>
+
+INITIAL COMMIT:
+git add .
+git commit -m "first commit"
+git branch -M main (optional: renaming master to main)
+git remote add origin <your repository HTML path here>
+git push -u origin main OR git push (after 1st commit)
